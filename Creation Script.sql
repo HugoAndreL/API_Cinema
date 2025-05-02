@@ -3,7 +3,7 @@
 USE [master];
 GO
 
-CREATE DATABASE [CinemaTestDB];
+CREATE DATABASE [CMSSTestDB];
 GO
 
 /* Prodution DATABASE */
